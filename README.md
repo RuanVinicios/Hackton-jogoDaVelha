@@ -11,19 +11,6 @@ Projeto desenvolvido durante o Hackathon do programa **1000Devs**, o projeto con
 ---
 
 ## **O Programa 1000Devs**  
-# #️⃣ **Jogo da Velha**  
-
-Projeto desenvolvido durante o Hackathon do programa **1000Devs**, o projeto consistia em criar um Jogo da Velha com especificações requisitadas ou exigidas com 27 métodos/funções predefinidas 
-
----
-
-## **Tecnologias usadas**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-
----
-
-## **O Programa 1000Devs**  
 
 O programa, criado pela Johnson & Johnson MedTech é inspirado em um programa global da Johnson & Johnson chamado “Talentos para o bem”, que visa impactar comunidades. A iniciativa nasceu em 2021 para endereçar um cenário de transformação digital na Saúde, em que soluções tecnológicas estão contribuindo cada vez mais para a qualidade de atendimento ao paciente, e foi identificada a necessidade de capacitar programadores para colaborar no desenvolvimento dessas soluções.
 
