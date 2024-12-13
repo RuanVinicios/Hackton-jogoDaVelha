@@ -1,11 +1,12 @@
 # #️⃣ **Jogo da Velha**  
 
-
+Projeto desenvolvido durante o Hackathon do programa **1000Devs**, o projeto consistia em criar um Jogo da Velha com especificações requisitadas ou exigidas com 27 métodos/funções predefinidas 
 
 ---
 
-## **Destaques do Projeto**  
+## **Tecnologias usadas**
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 ---
 
